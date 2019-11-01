@@ -1,0 +1,20 @@
+#EXTINF:-1,Combate
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/combate_ac3478d6_ebc14b03c4aed94519adf5180d8b0e9a7636b581.m3u8
+#EXTINF:-1,Megapix
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/megapix_a6f16ab4_05917c2a6014ba0514bd229cde3a4ab78f4ff0e8.m3u8
+#EXTINF:-1,History
+http://172.105.148.146/hls/s:94.177.242.28/history_b7eb6c68_8521079412a97c747d0f4ac6f6132a75ed8a4f7b/410p/chunklist.m3u8
+#EXTINF:-1,Cinemax 
+http://edge-aws.aovivo.club/hls/s:192.99.169.90/cinemax480p_22d200f8_e1c9f500563bc5a3e9e2a597798be02c72a12a1d/410p/chunklist.m3u8
+#EXTINF:-1,Hbo Plus
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hboplus480p_17820ac1_32d6df3226fd82f1ed3c6dd908b27382c9aaebb0/playlist.m3u8
+#EXTINF:-1,Fox
+http://edge-aws.aovivo.club/hls/s:78.47.3.135/fox_5a5b0f9b_5e5d3f5de7787a6179be714f2f7048f373f594d6.m3u8
+#EXTINF:-1,Telecine 
+http://edge-aws.aovivo.club/hls/s:192.99.169.90/telecinepipoca_fd937516_27f21657628b6db58015d21d15af0f119f34996a/410p_830kbit/chunklist.m3u8
+#EXTINF:-1,Telecine Touch
+http://edge-aws.aovivo.club/hls/s:94.177.242.28/telecinetouch_74cbd2c2_703a63d52c2bf2a955e5fd4309f4e7ca219b2899/480p/chunklist.m3u8
+#EXTINF:-1,Max
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/max_9f682df2_688a56ea770c69a45923833211337df7e9b37306.m3u8
+#EXTINF:-1,Max Prime
+http://edge-aws.aovivo.club/hls/s:78.47.3.135/maxprime_9c676e00_49deac0bab0cc8c7d99ba726ace303abb4957039.m3u8
